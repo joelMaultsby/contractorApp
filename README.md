@@ -1,6 +1,6 @@
 # contractorApp
 
-This web application allows customers to submit jobs they would like to get completed by a contractor. Potential customers submit jobs they want done that is stored in a database for contractors to view.
+This web application allows customers to submit jobs they would like to get completed by a contractor. Potential customers submit jobs they want done and the jobs are stored in a database for contractors to view.
 ---
 
 ## Technologies
